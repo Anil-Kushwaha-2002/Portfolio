@@ -1,6 +1,6 @@
 # Portfolio
 
-# Portfolio using HTML , CSS , Javascript.
+ Portfolio using HTML , CSS , Javascript.
 
 # https://anil-Kushwaha-2002.github.io/Portfolio/
 
